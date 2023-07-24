@@ -1,11 +1,12 @@
 ---
 title: ¿Que es el fuzzing❓
 published: true
+comments: true
 ---
 
 Para empezar hay que entender que dentro de una página web no todos los directorios son públicos y suele haber directorios que son paneles de incio de sesión para modificar o administrar la web, aunque generalmente no podríamos saber donde está el directorio privado, gracias a alguna técnica como el **'fuzzing'** podemos llegar a encontrarlos si tienen nombre comunes.
 
-## ¿Como funciona?
+## ¿Como funciona? 
 
 El **'fuzzing'** consiste en que una herramienta pruebe un listado de palabras que suelen ser directorios privados y vaya probando si alguno es un directorio oculto dentro de la página web en la que se está buscando, para esto se suelen utilizar herramientas como:
 
