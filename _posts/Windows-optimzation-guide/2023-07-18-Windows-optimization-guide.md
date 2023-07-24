@@ -20,11 +20,11 @@ Posteriormente, debemos entrar a “Acciones” e insertar el untemp, finalmente
 4.- Descargaremos <a href="https://github.com/hellzerg/optimizer" target="_blank">optimizer</a>, recomiendo los siguientes ajustes:
 
 <figure>
-<img src="/Windows-optimization-guide/kernel.png" alt="image">
+<img src="/assets/img/kernel.png" alt="image">
 </figure>
 
 <figure>
-<img src="/Windows-optimization-guide/kernal.png" alt="image">
+<img src="/assets/img/kernal.png" alt="image">
 </figure>
 
 Esta es mi recomendación aunque también recomiendo que investigues por tu cuenta que opciones te convienen más.

@@ -7,7 +7,7 @@ published: yes
 
 ### ¿Que es?
 
-Una dirección IP es un conujnto de números que identifican cada dispositivo conectado a internet, todos los dispositivos conectados a internet tienen una IP asignada. Tambien identifica en que lugar se encuentra el dispositvo, no de manera exacta pero si aproximada. Tu mismo puedes comprobar que no es totalmente exacto desde [aquí](https://www.cual-es-mi-ip.net/geolocalizar-ip-mapa).
+Una dirección IP es un conjunto de números que identifican cada dispositivo conectado a internet, todos los dispositivos conectados a internet tienen una IP asignada. También identifica en que lugar se encuentra el dispositivo, no de manera exacta pero sí aproximada. Tú mismo puedes comprobar que no es totalmente exacto desde aquí.
 
 ### ¿Como es?
 
@@ -17,12 +17,12 @@ La apariencia normal de una IP seria:
 
 ### ¿Se puede cambiar?
 
-Si, simplemente has de reiniciar o cambiar tu router, si quieres saber como hacerlo investiga [aquí](https://es.wikihow.com/cambiar-la-IP-de-mi-PC)
+Sí, simplemente has de reiniciar o cambiar tu router, si quieres saber como hacerlo investiga [aquí](https://es.wikihow.com/cambiar-la-IP-de-mi-PC)
 
 ### ¿Que se puede saber con una IP?
 
-De una IP puedes sacar varios datos, como: La ubicación, la compañia telefonica y los servicios que tiene expuestos. Principalmente serian esos tres los datos que se pueden sacar a traves de una dirección IP. Para proteger estos datos todos deberiamos de usar una VPN para aumentar nuestra seguridad, pero no una gratis, preferiblemente una de pago, puesto que las gratis suelen ser de bastante poca confianza.
+De una IP puedes sacar varios datos, como: La ubicación, la compañía telefónica y los servicios que tiene expuestos. Principalmente, serían esos tres los datos que se pueden sacar a través de una dirección IP. Para proteger estos datos todos deberíamos de usar una VPN para aumentar nuestra seguridad, pero no una gratis, preferiblemente una de pago, puesto que las gratis suelen ser de bastante poca confianza.
 
 ### Conclusión
 
-Como conclusión nos queda nuestra nueva definición de IP: "Una dirección IP es un conujnto de números que identifican cada dispositivo conectado a internet, todos los dispositivos conectados a internet tienen una IP asignada", y saber los peligros que tiene que alguien conozca tu IP. Si hay algo que no entiendes o quieres preguntarme algo respecto a esto no dudes en contactarme en kuentavj@gmail.com.
+Como conclusión nos queda nuestra nueva definición de IP: “Una dirección IP es un conjunto de números que identifican cada dispositivo conectado a internet, todos los dispositivos conectados a internet tienen una IP asignada”, y saber los peligros que tiene que alguien conozca tu IP. Si hay algo que no entiendes o quieres preguntarme algo respecto a esto, no dudes en contactarme en kuentavj@gmail.com.

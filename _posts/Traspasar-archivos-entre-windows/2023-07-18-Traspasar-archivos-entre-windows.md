@@ -35,7 +35,7 @@ python3 -m http.server 8080
 También tendrás que saber cuál es la ip privada del PC Windows. Para ello, tendrás que abrir el cmd y escribir “ipconfig” y buscar el tipo de conector wifi que tengas actualmente en uso, el mío por ejemplo sería el siguiente:
 
 <figure>
-<img src="/Traspasar-archivos-entre-windows/ipconfig.png" alt="image">
+<img src="/assets/img/ipconfig.png" alt="image">
 </figure>
 
 De esa imagen, mi ip privada sería la' 192.168.0.26’ ya que es el de la ‘Dirección IPv4’.
